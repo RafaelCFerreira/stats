@@ -1,3 +1,5 @@
-{"host":"User mauQueNemPikaPau","free":"1126MB","total":"3842MB","usage":"29%"}
-{"host":"User mauQueNemPikaPau","free":"1124MB","total":"3842MB","usage":"29%"}
-{"host":"User mauQueNemPikaPau","free":"1129MB","total":"3842MB","usage":"29%"}
+{"host":"User mauQueNemPikaPau","free":"1045MB","total":"3842MB","usage":"27%"}
+{"host":"User mauQueNemPikaPau","free":"1007MB","total":"3842MB","usage":"26%"}
+{"host":"User mauQueNemPikaPau","free":"1031MB","total":"3842MB","usage":"26%"}
+{"host":"User mauQueNemPikaPau","free":"984MB","total":"3842MB","usage":"25%"}
+{"host":"User mauQueNemPikaPau","free":"1020MB","total":"3842MB","usage":"26%"}
